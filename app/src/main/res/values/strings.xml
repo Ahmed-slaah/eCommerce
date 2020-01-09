@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">eCommerce</string>
+    <string name="already_have_an_account_login">Already have an account ? login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">Login</string>
+    <string name="forget_password">forget password ?</string>
+    <string name="password">password</string>
+
+
+</resources>
